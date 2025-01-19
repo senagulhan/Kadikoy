@@ -1,5 +1,12 @@
 # Kadıköy mahalle population based on age, gender analysis and population per year analysis.
 ![kadıkoy resım](https://github.com/user-attachments/assets/469e0bfa-e156-48bd-ace7-8f9b2c960f87)
+
+In this project, population data of Kadıköy district is analyzed based on age, gender, and annual population trends. The data retrieved from the Kadıköy Open Data Portal provides insights into the demographic structure of the district. The analysis is supported by various visualizations, helping to better understand the population distribution in the area.
+
+Purpose:
+
+The purpose of this project is to analyze the population distribution of Kadıköy based on age and gender, and to examine the annual changes in population, enabling a deeper understanding of the district's demographic composition.
+
 # Datasets
 Datasets and images are used from KADIKÖY AÇIK VERİ PORTALI
 
