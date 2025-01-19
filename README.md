@@ -55,7 +55,8 @@ Population between age 65 and older age based on Kadıköy:
 
 In the demographic analysis of Kadıköy, it is observed that the majority of the population (64.0%) falls within the 25-64 age range, indicating that this age group plays a dominant role in the district's demographic structure. Additionally, the population of children and young individuals (ages 0-24) collectively accounts for 21.8%, while the elderly population (65 years and older) constitutes 14.1%. These figures highlight that Kadıköy predominantly consists of adults and middle-aged individuals, with younger and older age groups representing smaller portions of the population.
 
-![image](https://github.com/user-attachments/assets/2e39c70b-a981-4f50-b05a-1f669481c4e6)
+![image](https://github.com/user-attachments/assets/1ad38f2e-06db-4a18-ba1f-923771669710)
+
 
 ### Mahalle population based on age between 25 to 64 (for example)
 
@@ -63,16 +64,17 @@ In the demographic analysis of Kadıköy, it is observed that the majority of th
 The pie chart illustrates the distribution of the population aged 25-64 across neighborhoods in Kadıköy, excluding the total value. It is evident that several neighborhoods, including  Zühtüpaşa, Koşuyolu, Hasanpaşa, Fikirtepe, Eğitim, Dumlupınar and Caferağa, share the highest proportion of 7.6%. Conversely, neighborhoods such as Acıbadem, Bostancı, Suadiye, Kozyatağı, Göztepe, and 19 Mayıs, exhibit lower proportions at 2.4%. This data suggests that the population in this age group is more evenly distributed in some neighborhoods, while it is notably smaller in others. Such variations may reflect differences in housing, amenities, or population density across these areas.
 
 
-![image](https://github.com/user-attachments/assets/61512587-482c-4890-8404-0413d63ede6c)
+![image](https://github.com/user-attachments/assets/3d3feabb-0885-41cf-8279-6fd711b26a7c)
+
 
 ### Mahalle population change based on year between 2008 to 2022
 
 In general, neighborhood populations have shown similar trends. Nearly all neighborhoods exhibited a decline between 2012 and 2015, followed by an increase between 2015 and 2019. These changes could be attributed to economic factors.
 
-![image](https://github.com/user-attachments/assets/744ef100-4e11-4209-ae5a-8843243b751e)
+![image](https://github.com/user-attachments/assets/3ddba4ee-a80f-4b2f-bdd4-bd31a4c6f2bc)
 
 ### Gender distribution based on Mahalle
 
 In Kadıköy, the female population generally exceeds the male population across most neighborhoods. The largest differences in favor of females are observed in neighborhoods such as Göztepe (5,039), Kozyatağı (4,319), and Erenköy (4,394). On the other hand, Fikirtepe is the only neighborhood where the male population (243 more) slightly surpasses the female population. This trend indicates a notable demographic tendency towards a higher female population in the region.
 
-![image](https://github.com/user-attachments/assets/43aca329-0ae3-4c0a-b2f8-e78eaef206ab)
+![image](https://github.com/user-attachments/assets/e67b4034-95ee-46eb-b569-7331d4816550)
